@@ -254,12 +254,13 @@ img{
 }
     
 .notes{
-    margin-left: 65px;
+    margin-left: 80px;
     width:300px;
     height: 200px;
     background: linear-gradient(45deg,#43cea2,#185a9d);
     border-radius: 10px;
     margin-top: 70px;
+    margin-right:5px;
 }
     
 textarea{
