@@ -250,12 +250,12 @@ img{
 .add{
     margin-right: 120px;
     margin-top: 10px;
-    font-size: 17px;
+    font-size: 14px;
 }
     
 .notes{
     margin-left: 80px;
-    width:300px;
+    width:290px;
     height: 200px;
     background: linear-gradient(45deg,#43cea2,#185a9d);
     border-radius: 10px;
@@ -264,13 +264,13 @@ img{
 }
     
 textarea{
-    width:295px;
+    width:285px;
     margin-top: 20px;
     height: 100px;
     background: linear-gradient(45deg,#43cea2,#185a9d);
     color: white;
     border: none;
-    font-size: 17px;
+    font-size: 14px;
         
 }
     
